@@ -1,0 +1,19 @@
+# Ignore cache files
+**/labels.cache
+__pycache__
+
+# Ignore specific file types
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.txt
+*.mov
+*.mp4
+*.pt
+
+# Ignore specific directories
+custom_dataset/
+runs/
+tools/
